@@ -1,0 +1,41 @@
+1. Define 
+- 어떤 용도로 웹사이트를 제작 하는건지 정의한다.
+ex) 포트폴리오, 고객문의   
+
+- 어떤 서비스를 제공할 것인지 정한다. 
+ex) 쇼핑몰, 갤러리, 퍼스널, 웹서비스   
+
+2. Plan
+- 어떤 메시지를 담고 싶은지 콘텐츠 방향을 설정한다.  
+- 웹사이트 구조를 section 으로 나눠서 구조화 시킨다.
+
+Sections
+  - Logo + Navigation
+  - Hero
+  - featured in
+  - How it works
+  - Meals (and list of diets)
+  - Testimonials + gallery
+  - Pricing + features
+  - CTA
+  - Footer   
+- Sections에 해당하는 Contents 메시지를 만든다. 
+
+3. Sketch 
+- 위 정보를 토대로 전체적인 스케치를 간단하게 진행 할 수 있다. 
+- 사전 정보가 있으니까 간단하게 레이아웃을 잡고 추가 정보를 넣을 수 있다. 
+
+4. Design 
+
+5. Lalunch 
+
+## 리소스 정보 
+1. unsplash - 이미지 얻는 웹사이트 
+2. Ui face - 인물 얼굴 얻는 사이트
+3. tints and shades generator - color의 음영을 얻는 사이트
+
+## 반응형 
+1. Fluid layouts 
+2. Responsive units 
+3. Flexible images 
+4. Media queries
