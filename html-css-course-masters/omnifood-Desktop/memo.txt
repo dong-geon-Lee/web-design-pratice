@@ -33,6 +33,8 @@ Sections
 1. unsplash - 이미지 얻는 웹사이트 
 2. Ui face - 인물 얼굴 얻는 사이트
 3. tints and shades generator - color의 음영을 얻는 사이트
+4. heroIcons - 아이콘 리소스
+5. ionicons - 아이콘 리소스
 
 ## 반응형 
 1. Fluid layouts 
