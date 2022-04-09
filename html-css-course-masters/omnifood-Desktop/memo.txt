@@ -41,3 +41,11 @@ Sections
 2. Responsive units 
 3. Flexible images 
 4. Media queries
+
+미디어 쿼리 작동방식 
+일반 css 작동처럼 마지막에 있는 element 가 값을 오버로드 해서 뒤집는다. 
+일반적으로 1200px -> 600px 로 가는 것이 보통 인식이랑 일치하고 
+반대로 600px -> 1200px 코드 순으로 작성하는것은 보통 중첩되기 떄문에 값이
+1200px의 값 쪽으로 바뀐다.
+
+중단점 이해하기 (px value)
