@@ -50,6 +50,7 @@ const obs = new IntersectionObserver(
     rootMargin: "-80px",
   }
 );
+
 obs.observe(sectionHeroEl);
 
 const btnNavEl = document.querySelector(".btn-mobile-nav");
